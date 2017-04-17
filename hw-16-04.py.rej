@@ -1,0 +1,9 @@
+diff a/hw-16-04.py b/hw-16-04.py	(rejected hunks)
+@@ -0,6 +0,7 @@
+ #calculate area circle
+ r=int(input('radius? '))
+ area = pi*r**2
++print('Area = ',round(area,2))
+ 
+ #Converter
+ def conv(x):
